@@ -41,6 +41,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Useful resources
 
 - [Box Shadow Generator CSS](https://html-css-js.com/css/generator/box-shadow/)
+- [Css Units](https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/)
+- [Semantic HTML](https://web.dev/learn/html/semantic-html/)
 
 
 ## Author
